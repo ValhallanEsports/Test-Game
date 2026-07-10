@@ -1,0 +1,6 @@
+{
+  "name": "Dino Geometry Dash",
+  "description": "An intense, rhythm-infused mashup of Chrome's Dino Runner and Geometry Dash, complete with spikes, airborne boost orbs, gravity portals, sound synthesis, and checkpoint Practice Mode.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
